@@ -1,0 +1,2 @@
+API_KEY = "FAKE-KEY-FOR-TESTING-1234567890"
+DB_PASSWORD = "not-a-real-password"
